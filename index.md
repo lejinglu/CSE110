@@ -2,7 +2,7 @@
 * Math-CS * **UC San Diego**
 > I almost forgot about how to use git
 ## section links
-  - [more]( # more)
+  - [more](#more)
 
 I need to remember
 ```
